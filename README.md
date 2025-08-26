@@ -1,6 +1,6 @@
 # Sistema de Control de Acceso al Restaurante Escolar
 
-Aplicación web para el control de acceso al restaurante escolar de la Institución Educativa Nuevo Latir, diseñada específicamente para profesores.
+Aplicación web para el control de acceso al restaurante escolar de la Institución Educativa Nuevo Latir sede Isaias Duarte Cancino, diseñada específicamente para profesores.
 
 ## Características
 
